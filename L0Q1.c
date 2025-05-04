@@ -1,3 +1,5 @@
+//INTEGRANTES: JOÃO EVERTON DE ALMEIDA DOS SANTOS e VANESSA DA CONCEIÇÃO DOS SANTOS 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
